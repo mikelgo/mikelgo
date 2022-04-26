@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi friends 👋
+[Blog](https://blog.michael-berger.dev) | [Consulting](https://berger-consulting.dev)
 
 <!--
 **mikelgo/mikelgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
