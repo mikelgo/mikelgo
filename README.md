@@ -1,4 +1,4 @@
-### Hi friends 👋
+### Hi friends 👋, I'm Michael
 [Blog](https://blog.michael-berger.dev) | [Consulting](https://berger-consulting.dev) 
 
 #### Wanna chat? 
