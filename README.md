@@ -1,5 +1,8 @@
 ### Hi friends 👋
-[Blog](https://blog.michael-berger.dev) | [Consulting](https://berger-consulting.dev)
+[Blog](https://blog.michael-berger.dev) | [Consulting](https://berger-consulting.dev) 
+
+#### Wanna chat? 
+drop me a message on [Twitter](https://twitter.com/mikelgo812)
 
 <!--
 **mikelgo/mikelgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
