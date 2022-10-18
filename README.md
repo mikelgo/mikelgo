@@ -6,6 +6,7 @@
 * 👪 Father
 * 🌎 Traveller
 * ☕ Coffee-lover
+* 🤘 Kid of the 90's
 
 
 #### 💬 Wanna chat? 
