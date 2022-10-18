@@ -1,7 +1,14 @@
 ### Hi friends 👋, I'm Michael
-[Blog](https://blog.michael-berger.dev) | [Consulting](https://berger-consulting.dev) 
 
-#### Wanna chat? 
+* 💻 [Freelance Software Engineer](https://berger-consulting.dev)
+* 🖊️ [Writing](https://blog.michael-berger.dev)
+* 🅰 Angular focused
+* 👪 Father
+* 🌎 Traveller
+* ☕ Coffee-lover
+
+
+#### 💬 Wanna chat? 
 drop me a message on [Twitter](https://twitter.com/mikelgo812)
 
 <!--
