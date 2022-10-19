@@ -1,7 +1,7 @@
 ### Hi friends 👋, I'm Michael
 
 * 💻 [Freelance Software Engineer](https://berger-consulting.dev)
-* 🖊️ [Writing](https://blog.michael-berger.dev)
+* 🖊️ [Writing](https://blog.michael-berger.dev) (at least trying to become better at it :-) )
 * 🅰 Angular focused
 * 👪 Father
 * 🌎 Traveller
