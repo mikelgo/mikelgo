@@ -1,12 +1,12 @@
 ### Hi friends 👋, I'm Michael
 
-* 💻 [Freelance Software Engineer](https://berger-consulting.dev)
-* 🖊️ [Writing](https://blog.michael-berger.dev) (at least trying to become better at it :-) )
-* 🅰 Angular focused
-* 👪 Father
-* 🌎 Traveller
-* ☕ Coffee-lover
-* 🤘 Kid of the 90's
+💻 [Freelance Software Engineer](https://berger-consulting.dev)  
+🖊️ [Writing](https://blog.michael-berger.dev) (at least trying to become better at it :-) )  
+🅰 Angular focused  
+👪 Father  
+🌎 Traveller  
+☕ Coffee-lover  
+🤘 Kid of the 90's  
 
 
 #### 💬 Wanna chat? 
