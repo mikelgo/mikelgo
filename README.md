@@ -1,3 +1,5 @@
+<p><img width=15% src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
 ### Hi friends 👋, I'm Michael
 
 💻 [Freelance Software Engineer](https://berger-consulting.dev)  
