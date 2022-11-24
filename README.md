@@ -10,7 +10,7 @@
 ☕ Coffee-lover  
 🤘 Kid of the 90's  
 
-My Open Source work can be mainly found in this [code-workers.io](https://github.com/orgs/code-workers-io/repositories)
+My Open Source work can be mainly found in this org [code-workers.io](https://github.com/orgs/code-workers-io/repositories)
 
 #### 💬 Wanna chat? 
 drop me a message on [Twitter](https://twitter.com/mikelgo812)
