@@ -2,7 +2,7 @@
 
 ### Hi friends 👋, I'm Michael
 
-💻 [Freelance Software Engineer](https://berger-consulting.dev)  
+💻 [Freelance Software Engineer](https://berger-engineering.io)  
 🖊️ [Writing](https://blog.michael-berger.dev) (at least trying to become better at it :-) )  
 🅰 Angular focused  
 👪 Father  
